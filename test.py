@@ -1,4 +1,4 @@
-1.satir
+1.satir+32
 
 2.satir
 
